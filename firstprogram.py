@@ -1,0 +1,5 @@
+print("hey, this is Shubh")
+print("this is my first python program")
+print("excited!")
+print("looking to build some cool shit and work on my ideas")
+print("first step to a long journey ;]")
